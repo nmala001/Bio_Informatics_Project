@@ -1,5 +1,7 @@
 # Bio_Informatics_Project
 
+## Implement the global alignment dynamic programming algorithm using an affine-gap penalty
+
 Steps to run the file:
 1.	Save the global_alignment.py in any folder.
 2.	Open Putty or Secure shell and navigate to that folder where you saved the above file.
